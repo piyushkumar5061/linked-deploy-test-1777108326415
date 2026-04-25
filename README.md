@@ -1,2 +1,1 @@
-# linked-deploy-test-1777108326415
-Test for Linked GitHub→Vercel deployment
+# linked-deploy-test-1777108326415\n\nAuto-deployed via Linked GitHub→Vercel integration.
